@@ -1,0 +1,208 @@
+[
+  {
+    "id": "medibis",
+    "name": "Medibis",
+    "industry": "Personal Care & Healthcare",
+    "location": "Australia",
+    "logoColour": "#010122",
+    "logoImage": "https://storage.googleapis.com/birchal-uploads/f2dfa12e-3788-4228-bc14-a54cc7afa7ed/f2dfa12e-3788-4228-bc14-a54cc7afa7ed@300x300.png",
+    "coverImage": "https://storage.googleapis.com/birchal-uploads/9ae45899-af48-4e85-800e-d8ba8e23e6f9/9ae45899-af48-4e85-800e-d8ba8e23e6f9@1920x1080.jpeg",
+    "campaignType": "OFFER",
+    "campaignStatus": "LIVE"
+  },
+  {
+    "id": "ahv",
+    "name": "Australian Honey Ventures",
+    "industry": "Food & Beverage",
+    "location": "Gingin Western Australia",
+    "logoColour": "#944212",
+    "logoImage": "https://storage.googleapis.com/birchal-uploads/284dce07-8c21-47a3-9f0e-0bb0b9a86b0d/284dce07-8c21-47a3-9f0e-0bb0b9a86b0d@300x300.jpeg",
+    "coverImage": "https://storage.googleapis.com/birchal-uploads/5120273f-b855-4f91-b0bd-1690f22e0401/5120273f-b855-4f91-b0bd-1690f22e0401@1920x1080.jpeg",
+    "campaignType": "OFFER",
+    "campaignStatus": "LIVE"
+  },
+  {
+    "id": "xhemp",
+    "name": "X-Hemp",
+    "industry": "Social & Environmental",
+    "location": "Tasmania, Australia",
+    "logoColour": "#276854",
+    "logoImage": "https://storage.googleapis.com/birchal-uploads/7cc1a18f-74be-40f6-af36-7f0d1b41421b/7cc1a18f-74be-40f6-af36-7f0d1b41421b@300x300.jpeg",
+    "coverImage": "https://storage.googleapis.com/birchal-uploads/36b7d1a5-8532-47e6-a2d4-9c0d2615d8bb/36b7d1a5-8532-47e6-a2d4-9c0d2615d8bb@1920x1080.jpeg",
+    "campaignType": "OFFER",
+    "campaignStatus": "LIVE"
+  },
+  {
+    "id": "maslow",
+    "name": "Maslow",
+    "industry": "Fintech",
+    "location": "Melbourne, Australia",
+    "logoImage": "https://storage.googleapis.com/birchal-uploads/551503d0-8229-42cf-b0a3-a040ed823224/551503d0-8229-42cf-b0a3-a040ed823224@300x300.png",
+    "coverImage": "https://storage.googleapis.com/birchal-uploads/702c5e3e-8156-4f98-97fe-95aed688ca61/702c5e3e-8156-4f98-97fe-95aed688ca61@1920x1080.jpeg",
+    "campaignType": "EOI",
+    "campaignStatus": "LIVE"
+  },
+  {
+    "id": "brane",
+    "name": "Brane",
+    "industry": "Technology",
+    "location": "Melbourne",
+    "logoImage": "https://storage.googleapis.com/birchal-uploads/d12af75c-9e40-4c31-ae4a-973f9105e0b9/d12af75c-9e40-4c31-ae4a-973f9105e0b9@300x300.png",
+    "coverImage": "https://storage.googleapis.com/birchal-uploads/532f5110-50a0-4548-b9a1-d4a0fe2bc1b0/532f5110-50a0-4548-b9a1-d4a0fe2bc1b0@1920x1080.jpeg",
+    "campaignType": "EOI",
+    "campaignStatus": "LIVE"
+  },
+  {
+    "id": "lightningminds",
+    "name": "Lightning Minds",
+    "industry": "Food & Beverage",
+    "location": "Australia",
+    "logoImage": "https://storage.googleapis.com/birchal-uploads/6995fe56-14db-47f4-86e7-f18ed3d538f3/6995fe56-14db-47f4-86e7-f18ed3d538f3@300x300.png",
+    "coverImage": "https://storage.googleapis.com/birchal-uploads/9b3b4342-02e0-43af-8bc5-500a7ae18d3a/9b3b4342-02e0-43af-8bc5-500a7ae18d3a@1920x1080.jpeg",
+    "campaignType": "EOI",
+    "campaignStatus": "LIVE"
+  },
+  {
+    "id": "fremantleseaweed",
+    "name": "Fremantle Seaweed Pty Ltd",
+    "industry": "Food & Beverage",
+    "location": "Fremantle WA",
+    "logoImage": "https://storage.googleapis.com/birchal-uploads/b4006f40-0f99-4db3-afb8-5e6888165ade/b4006f40-0f99-4db3-afb8-5e6888165ade@300x300.png",
+    "coverImage": "https://storage.googleapis.com/birchal-uploads/640a0f29-1d73-4e6b-8a75-4e6474865174/640a0f29-1d73-4e6b-8a75-4e6474865174@1920x1080.jpeg",
+    "campaignType": "OFFER",
+    "campaignStatus": "CLOSED"
+  },
+  {
+    "id": "antipodesginco",
+    "name": "Antipodes Gin Company",
+    "industry": "Craft Beer & Wine",
+    "location": "Australia",
+    "logoColour": "#000",
+    "logoImage": "https://storage.googleapis.com/birchal-uploads/b02c100d-1302-4403-af27-5ccf50cfdbaa/b02c100d-1302-4403-af27-5ccf50cfdbaa@300x300.jpeg",
+    "coverImage": "https://storage.googleapis.com/birchal-uploads/b1974d7d-1ace-4c4a-bca5-2da8f1970502/b1974d7d-1ace-4c4a-bca5-2da8f1970502@1920x1080.jpeg",
+    "campaignType": "OFFER",
+    "campaignStatus": "CLOSED"
+  },
+  {
+    "id": "broad-radio",
+    "name": "Broad Radio",
+    "industry": "Media & Entertainment",
+    "location": "Melbourne",
+    "logoImage": "https://storage.googleapis.com/birchal-uploads/c2dc52e4-5a55-4cad-8b7c-c913291b317c/c2dc52e4-5a55-4cad-8b7c-c913291b317c@300x300.png",
+    "coverImage": "https://storage.googleapis.com/birchal-uploads/37345514-e7b7-4f47-a104-4bc066cb7b46/37345514-e7b7-4f47-a104-4bc066cb7b46@1920x1080.jpeg",
+    "campaignType": "OFFER",
+    "campaignStatus": "CLOSED"
+  },
+  {
+    "id": "mydrivehero",
+    "name": "MyDriveHero",
+    "industry": "Technology",
+    "location": "Australia",
+    "logoImage": "https://storage.googleapis.com/birchal-uploads/9a870164-ef8d-4a5b-9a28-b7c6a5e83197/9a870164-ef8d-4a5b-9a28-b7c6a5e83197@300x300.png",
+    "coverImage": "https://storage.googleapis.com/birchal-uploads/0552d798-d69a-4dfe-aaf5-b01a155fb4e1/0552d798-d69a-4dfe-aaf5-b01a155fb4e1@1920x1080.jpeg",
+    "campaignType": "OFFER",
+    "campaignStatus": "CLOSED"
+  },
+  {
+    "id": "vanable",
+    "name": "Vanable",
+    "industry": "Travel & Accommodation",
+    "location": "Sydney",
+    "logoColour": "#060a23",
+    "logoImage": "https://storage.googleapis.com/birchal-uploads/b30d34be-4128-42f6-900f-d2e60f1bf067/b30d34be-4128-42f6-900f-d2e60f1bf067@300x300.png",
+    "coverImage": "https://storage.googleapis.com/birchal-uploads/ce8d7cff-2fd3-41d7-a9d8-0babf2b3d356/ce8d7cff-2fd3-41d7-a9d8-0babf2b3d356@1920x1080.jpeg",
+    "campaignType": "OFFER",
+    "campaignStatus": "CLOSED"
+  },
+  {
+    "id": "seabin",
+    "name": "Seabin",
+    "industry": "Technology",
+    "location": "Byron Bay",
+    "logoColour": "#fff",
+    "logoImage": "https://storage.googleapis.com/birchal-uploads/12cd64a6-beec-4d77-bae5-99dc164203aa/12cd64a6-beec-4d77-bae5-99dc164203aa@300x300.png",
+    "coverImage": "https://storage.googleapis.com/birchal-uploads/27ead509-a586-466a-b765-f9a2feabd7a1/27ead509-a586-466a-b765-f9a2feabd7a1@1920x1080.jpeg",
+    "campaignType": "OFFER",
+    "campaignStatus": "CLOSED"
+  },
+  {
+    "id": "zeroco",
+    "name": "Zero Co",
+    "industry": "Home & Lifestyle",
+    "location": "Byron Bay",
+    "logoImage": "https://storage.googleapis.com/birchal-uploads/ddd36fcf-1d45-429e-bea0-7664827584ad/ddd36fcf-1d45-429e-bea0-7664827584ad@300x300.png",
+    "coverImage": "https://storage.googleapis.com/birchal-uploads/b9bcc4aa-5230-4ea8-a869-791d0f980c52/b9bcc4aa-5230-4ea8-a869-791d0f980c52@1920x1080.jpeg",
+    "campaignType": "OFFER",
+    "campaignStatus": "CLOSED"
+  },
+  {
+    "id": "shebah",
+    "name": "Shebah",
+    "industry": "Technology",
+    "location": "Australia",
+    "logoImage": "https://storage.googleapis.com/birchal-images/765ba8cf-378b-4e22-acf4-af035218e707/765ba8cf-378b-4e22-acf4-af035218e707@300x300.png",
+    "coverImage": "https://storage.googleapis.com/birchal-uploads/c920e3fc-6353-4d33-b328-e9f042a98d60/c920e3fc-6353-4d33-b328-e9f042a98d60@1920x1080.jpeg",
+    "campaignType": "OFFER",
+    "campaignStatus": "CLOSED"
+  },
+  {
+    "id": "bunsters",
+    "name": "Bunsters",
+    "industry": "Food & Beverage",
+    "location": "Australia",
+    "logoImage": "https://storage.googleapis.com/birchal-uploads/c3155979-4b38-49af-a7db-b19312e9bc3f/c3155979-4b38-49af-a7db-b19312e9bc3f@300x300.png",
+    "coverImage": "https://storage.googleapis.com/birchal-uploads/6deae735-8f56-459c-8e48-cc6b03254f19/6deae735-8f56-459c-8e48-cc6b03254f19@1920x1080.jpeg",
+    "campaignType": "OFFER",
+    "campaignStatus": "CLOSED"
+  },
+  {
+    "id": "threadheads",
+    "name": "Threadheads",
+    "industry": "Fashion & Design",
+    "location": "Melbourne, Australia",
+    "logoImage": "https://storage.googleapis.com/birchal-uploads/a17358f7-ac16-4718-9c5d-bad5bc67ed50/a17358f7-ac16-4718-9c5d-bad5bc67ed50@300x300.png",
+    "coverImage": "https://storage.googleapis.com/birchal-uploads/e7328f7d-0caa-40c1-be0a-913182561992/e7328f7d-0caa-40c1-be0a-913182561992@1920x1080.jpeg",
+    "campaignType": "OFFER",
+    "campaignStatus": "CLOSED"
+  },
+  {
+    "id": "roogenic",
+    "name": "Roogenic",
+    "industry": "Food & Beverage",
+    "location": "Western Australia",
+    "logoImage": "https://storage.googleapis.com/birchal-uploads/d6746e70-05e5-4305-a3bf-79df1b260051/d6746e70-05e5-4305-a3bf-79df1b260051@300x300.png",
+    "coverImage": "https://storage.googleapis.com/birchal-uploads/2c89206d-fc66-4d19-bbd3-606dda047504/2c89206d-fc66-4d19-bbd3-606dda047504@1920x1080.jpeg",
+    "campaignType": "OFFER",
+    "campaignStatus": "CLOSED"
+  },
+  {
+    "id": "coinstash",
+    "name": "Coinstash",
+    "industry": "Technology",
+    "location": "Brisbane, QLD",
+    "logoImage": "https://storage.googleapis.com/birchal-uploads/b14019ae-8db6-4b04-be15-b079f026bfdb/b14019ae-8db6-4b04-be15-b079f026bfdb@300x300.png",
+    "coverImage": "https://storage.googleapis.com/birchal-uploads/3fa0708b-022b-4db1-a70e-ee4b575e7499/3fa0708b-022b-4db1-a70e-ee4b575e7499@1920x1080.jpeg",
+    "campaignType": "OFFER",
+    "campaignStatus": "CLOSED"
+  },
+  {
+    "id": "outlanddenim",
+    "name": "Outland Denim",
+    "industry": "Social & Environmental",
+    "location": "Queensland",
+    "logoImage": "https://storage.googleapis.com/birchal-uploads/e2ac89af-8e4a-4625-9674-83b4663f0caf/e2ac89af-8e4a-4625-9674-83b4663f0caf@300x300.png",
+    "coverImage": "https://storage.googleapis.com/birchal-uploads/72bcefe4-af96-472f-94cc-d519d57e5c7b/72bcefe4-af96-472f-94cc-d519d57e5c7b@1920x1080.jpeg",
+    "campaignType": "OFFER",
+    "campaignStatus": "CLOSED"
+  },
+  {
+    "id": "medigrowth",
+    "name": "Medigrowth Australia",
+    "industry": "Personal Care & Healthcare",
+    "location": "Victoria, Australia",
+    "logoImage": "https://storage.googleapis.com/birchal-uploads/b48df65b-3ce1-4dad-9611-522f322d1244/b48df65b-3ce1-4dad-9611-522f322d1244@300x300.png",
+    "coverImage": "https://storage.googleapis.com/birchal-uploads/87afbbdf-08d4-4524-8ac7-68606192e602/87afbbdf-08d4-4524-8ac7-68606192e602@1920x1080.jpeg",
+    "campaignType": "OFFER",
+    "campaignStatus": "CLOSED"
+  }
+]

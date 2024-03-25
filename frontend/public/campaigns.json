@@ -1,0 +1,202 @@
+[
+  {
+    "id": "794678333591617537",
+    "company": {
+      "name": "Maslow",
+      "industry": "Fintech",
+      "mainImage": "https://storage.googleapis.com/birchal-uploads/d89b5f34-70a1-4c3a-9d96-326595d135af/d89b5f34-70a1-4c3a-9d96-326595d135af@640x360.jpeg",
+      "logoImage": "https://storage.googleapis.com/birchal-uploads/551503d0-8229-42cf-b0a3-a040ed823224/551503d0-8229-42cf-b0a3-a040ed823224@300x300.png",
+      "coverImage": "https://storage.googleapis.com/birchal-uploads/702c5e3e-8156-4f98-97fe-95aed688ca61/702c5e3e-8156-4f98-97fe-95aed688ca61@1920x1080.jpeg"
+    },
+    "type": "EOI",
+    "status": "LIVE",
+    "closingInDays": 10.458603958333333,
+    "closeDate": "2024-04-02T11:00:00.000Z",
+    "closeDateFormatted": "Apr 2, 2024 at 10pm"
+  },
+  {
+    "id": "876543210124347737",
+    "company": {
+      "name": "Brane",
+      "industry": "Technology",
+      "mainImage": "https://storage.googleapis.com/birchal-uploads/5c424cd8-802c-4c3a-8b28-e2965ba7d1b0/5c424cd8-802c-4c3a-8b28-e2965ba7d1b0@640x360.jpeg",
+      "logoImage": "https://storage.googleapis.com/birchal-uploads/d12af75c-9e40-4c31-ae4a-973f9105e0b9/d12af75c-9e40-4c31-ae4a-973f9105e0b9@300x300.png",
+      "coverImage": "https://storage.googleapis.com/birchal-uploads/532f5110-50a0-4548-b9a1-d4a0fe2bc1b0/532f5110-50a0-4548-b9a1-d4a0fe2bc1b0@1920x1080.jpeg"
+    },
+    "type": "EOI",
+    "status": "LIVE",
+    "closingInDays": 9.458603958333333,
+    "closeDate": "2024-04-01T11:00:00.000Z",
+    "closeDateFormatted": "Apr 1, 2024 at 10pm"
+  },
+  {
+    "id": "876543210124366247",
+    "company": {
+      "name": "Lightning Minds",
+      "industry": "Food & Beverage",
+      "mainImage": "https://storage.googleapis.com/birchal-uploads/7e2015ea-72c6-4dfb-9b73-7508a525651e/7e2015ea-72c6-4dfb-9b73-7508a525651e@640x360.jpeg",
+      "logoImage": "https://storage.googleapis.com/birchal-uploads/6995fe56-14db-47f4-86e7-f18ed3d538f3/6995fe56-14db-47f4-86e7-f18ed3d538f3@300x300.png",
+      "coverImage": "https://storage.googleapis.com/birchal-uploads/9b3b4342-02e0-43af-8bc5-500a7ae18d3a/9b3b4342-02e0-43af-8bc5-500a7ae18d3a@1920x1080.jpeg"
+    },
+    "type": "EOI",
+    "status": "LIVE",
+    "closingInDays": 10.458603958333333,
+    "closeDate": "2024-04-02T11:00:00.000Z",
+    "closeDateFormatted": "Apr 2, 2024 at 10pm"
+  },
+  {
+    "id": "876543210124406969",
+    "company": {
+      "name": "Medibis",
+      "industry": "Personal Care & Healthcare",
+      "mainImage": "https://storage.googleapis.com/birchal-uploads/9712d1d3-2caa-4962-9aaf-61b254ea2631/9712d1d3-2caa-4962-9aaf-61b254ea2631@640x360.jpeg",
+      "logoColour": "#010122",
+      "logoImage": "https://storage.googleapis.com/birchal-uploads/f2dfa12e-3788-4228-bc14-a54cc7afa7ed/f2dfa12e-3788-4228-bc14-a54cc7afa7ed@300x300.png",
+      "coverImage": "https://storage.googleapis.com/birchal-uploads/9ae45899-af48-4e85-800e-d8ba8e23e6f9/9ae45899-af48-4e85-800e-d8ba8e23e6f9@1920x1080.jpeg"
+    },
+    "type": "OFFER",
+    "status": "LIVE",
+    "closingInDays": 5.458603958333334,
+    "closeDate": "2024-03-28T11:00:00.000Z",
+    "closeDateFormatted": "Mar 28, 2024 at 10pm"
+  },
+  {
+    "id": "876543210124408203",
+    "company": {
+      "name": "Australian Honey Ventures",
+      "industry": "Food & Beverage",
+      "mainImage": "https://storage.googleapis.com/birchal-uploads/a74df7ee-f92b-4f90-9889-5b43f77ba777/a74df7ee-f92b-4f90-9889-5b43f77ba777@640x360.jpeg",
+      "logoColour": "#944212",
+      "logoImage": "https://storage.googleapis.com/birchal-uploads/284dce07-8c21-47a3-9f0e-0bb0b9a86b0d/284dce07-8c21-47a3-9f0e-0bb0b9a86b0d@300x300.jpeg",
+      "coverImage": "https://storage.googleapis.com/birchal-uploads/5120273f-b855-4f91-b0bd-1690f22e0401/5120273f-b855-4f91-b0bd-1690f22e0401@1920x1080.jpeg"
+    },
+    "type": "OFFER",
+    "status": "LIVE",
+    "closingInDays": 5.458603958333334,
+    "closeDate": "2024-03-28T11:00:00.000Z",
+    "closeDateFormatted": "Mar 28, 2024 at 10pm"
+  },
+  {
+    "id": "876543210124404501",
+    "company": {
+      "name": "X-Hemp",
+      "industry": "Social & Environmental",
+      "mainImage": "https://storage.googleapis.com/birchal-uploads/df8eb52d-ce57-41d3-a5bc-a82b67bd2ec1/df8eb52d-ce57-41d3-a5bc-a82b67bd2ec1@640x360.jpeg",
+      "logoColour": "#276854",
+      "logoImage": "https://storage.googleapis.com/birchal-uploads/7cc1a18f-74be-40f6-af36-7f0d1b41421b/7cc1a18f-74be-40f6-af36-7f0d1b41421b@300x300.jpeg",
+      "coverImage": "https://storage.googleapis.com/birchal-uploads/36b7d1a5-8532-47e6-a2d4-9c0d2615d8bb/36b7d1a5-8532-47e6-a2d4-9c0d2615d8bb@1920x1080.jpeg"
+    },
+    "type": "OFFER",
+    "status": "LIVE",
+    "closingInDays": 5.458603958333334,
+    "closeDate": "2024-03-28T11:00:00.000Z",
+    "closeDateFormatted": "Mar 28, 2024 at 10pm"
+  },
+  {
+    "id": "876543210124389693",
+    "company": {
+      "name": "Fremantle Seaweed Pty Ltd",
+      "industry": "Food & Beverage",
+      "mainImage": "https://storage.googleapis.com/birchal-uploads/087af1b5-1582-4bd4-aab8-f6bff362b381/087af1b5-1582-4bd4-aab8-f6bff362b381@640x360.jpeg",
+      "logoImage": "https://storage.googleapis.com/birchal-uploads/b4006f40-0f99-4db3-afb8-5e6888165ade/b4006f40-0f99-4db3-afb8-5e6888165ade@300x300.png",
+      "coverImage": "https://storage.googleapis.com/birchal-uploads/640a0f29-1d73-4e6b-8a75-4e6474865174/640a0f29-1d73-4e6b-8a75-4e6474865174@1920x1080.jpeg"
+    },
+    "type": "OFFER",
+    "status": "CLOSED",
+    "closingInDays": 0,
+    "closeDate": "2024-03-14T11:00:00.000Z",
+    "closeDateFormatted": "Mar 14, 2024 at 10pm"
+  },
+  {
+    "id": "876543210124405735",
+    "company": {
+      "name": "Antipodes Gin Company",
+      "industry": "Craft Beer & Wine",
+      "mainImage": "https://storage.googleapis.com/birchal-uploads/139bd95a-1019-49b3-9894-4bb90b896583/139bd95a-1019-49b3-9894-4bb90b896583@640x360.jpeg",
+      "logoColour": "#000",
+      "logoImage": "https://storage.googleapis.com/birchal-uploads/b02c100d-1302-4403-af27-5ccf50cfdbaa/b02c100d-1302-4403-af27-5ccf50cfdbaa@300x300.jpeg",
+      "coverImage": "https://storage.googleapis.com/birchal-uploads/b1974d7d-1ace-4c4a-bca5-2da8f1970502/b1974d7d-1ace-4c4a-bca5-2da8f1970502@1920x1080.jpeg"
+    },
+    "type": "OFFER",
+    "status": "CLOSED",
+    "closingInDays": 0,
+    "closeDate": "2024-03-21T11:00:00.000Z",
+    "closeDateFormatted": "Mar 21, 2024 at 10pm"
+  },
+  {
+    "id": "876543210124379821",
+    "company": {
+      "name": "Broad Radio",
+      "industry": "Media & Entertainment",
+      "mainImage": "https://storage.googleapis.com/birchal-uploads/d4ad57fe-5dd6-487d-82de-a14d2e779e60/d4ad57fe-5dd6-487d-82de-a14d2e779e60@640x360.jpeg",
+      "logoImage": "https://storage.googleapis.com/birchal-uploads/c2dc52e4-5a55-4cad-8b7c-c913291b317c/c2dc52e4-5a55-4cad-8b7c-c913291b317c@300x300.png",
+      "coverImage": "https://storage.googleapis.com/birchal-uploads/37345514-e7b7-4f47-a104-4bc066cb7b46/37345514-e7b7-4f47-a104-4bc066cb7b46@1920x1080.jpeg"
+    },
+    "type": "OFFER",
+    "status": "CLOSED",
+    "closingInDays": 0,
+    "closeDate": "2024-03-07T11:00:00.000Z",
+    "closeDateFormatted": "Mar 7, 2024 at 10pm"
+  },
+  {
+    "id": "876543210124377353",
+    "company": {
+      "name": "MyDriveHero",
+      "industry": "Technology",
+      "mainImage": "https://storage.googleapis.com/birchal-uploads/b5a87305-1011-4e0a-ba15-ffd08753f555/b5a87305-1011-4e0a-ba15-ffd08753f555@640x360.jpeg",
+      "logoImage": "https://storage.googleapis.com/birchal-uploads/9a870164-ef8d-4a5b-9a28-b7c6a5e83197/9a870164-ef8d-4a5b-9a28-b7c6a5e83197@300x300.png",
+      "coverImage": "https://storage.googleapis.com/birchal-uploads/0552d798-d69a-4dfe-aaf5-b01a155fb4e1/0552d798-d69a-4dfe-aaf5-b01a155fb4e1@1920x1080.jpeg"
+    },
+    "type": "OFFER",
+    "status": "CLOSED",
+    "closingInDays": 0,
+    "closeDate": "2024-02-29T11:00:00.000Z",
+    "closeDateFormatted": "Feb 29, 2024 at 10pm"
+  },
+  {
+    "id": "876543210124376119",
+    "company": {
+      "name": "Vanable",
+      "industry": "Travel & Accommodation",
+      "mainImage": "https://storage.googleapis.com/birchal-uploads/24cc70a2-8413-4698-b2fe-3365adbf9017/24cc70a2-8413-4698-b2fe-3365adbf9017@640x360.jpeg",
+      "logoColour": "#060a23",
+      "logoImage": "https://storage.googleapis.com/birchal-uploads/b30d34be-4128-42f6-900f-d2e60f1bf067/b30d34be-4128-42f6-900f-d2e60f1bf067@300x300.png",
+      "coverImage": "https://storage.googleapis.com/birchal-uploads/ce8d7cff-2fd3-41d7-a9d8-0babf2b3d356/ce8d7cff-2fd3-41d7-a9d8-0babf2b3d356@1920x1080.jpeg"
+    },
+    "type": "OFFER",
+    "status": "CLOSED",
+    "closingInDays": 0,
+    "closeDate": "2024-03-07T11:00:00.000Z",
+    "closeDateFormatted": "Mar 7, 2024 at 10pm"
+  },
+  {
+    "id": "876543210124339099",
+    "company": {
+      "name": "Bunsters",
+      "industry": "Food & Beverage",
+      "mainImage": "https://storage.googleapis.com/birchal-uploads/216b34ce-b161-4c67-8059-b6a572957550/216b34ce-b161-4c67-8059-b6a572957550@640x360.jpeg",
+      "logoImage": "https://storage.googleapis.com/birchal-uploads/c3155979-4b38-49af-a7db-b19312e9bc3f/c3155979-4b38-49af-a7db-b19312e9bc3f@300x300.png",
+      "coverImage": "https://storage.googleapis.com/birchal-uploads/6deae735-8f56-459c-8e48-cc6b03254f19/6deae735-8f56-459c-8e48-cc6b03254f19@1920x1080.jpeg"
+    },
+    "type": "OFFER",
+    "status": "CLOSED",
+    "closingInDays": 0,
+    "closeDate": "2023-11-30T11:00:00.000Z",
+    "closeDateFormatted": "Nov 30, 2023 at 10pm"
+  },
+  {
+    "id": "876543210124344035",
+    "company": {
+      "name": "Outland Denim",
+      "industry": "Social & Environmental",
+      "mainImage": "https://storage.googleapis.com/birchal-uploads/b3c8e3e0-1600-48cd-8856-d0d79a614d83/b3c8e3e0-1600-48cd-8856-d0d79a614d83@640x360.jpeg",
+      "logoImage": "https://storage.googleapis.com/birchal-uploads/e2ac89af-8e4a-4625-9674-83b4663f0caf/e2ac89af-8e4a-4625-9674-83b4663f0caf@300x300.png",
+      "coverImage": "https://storage.googleapis.com/birchal-uploads/72bcefe4-af96-472f-94cc-d519d57e5c7b/72bcefe4-af96-472f-94cc-d519d57e5c7b@1920x1080.jpeg"
+    },
+    "type": "OFFER",
+    "status": "CLOSED",
+    "closingInDays": 0,
+    "closeDate": "2023-11-30T11:00:00.000Z",
+    "closeDateFormatted": "Nov 30, 2023 at 10pm"
+  }
+]

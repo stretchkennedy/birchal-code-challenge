@@ -1,0 +1,39 @@
+:root {
+  font-family: 'Lato', Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  --blue: #223ad3;
+  --neutral: #363d65;
+  --neutral-light: #a4acd8;
+  --background-light: #f4f5fd;
+  --background-dark: #212537;
+  --typography: #05060a;
+  --typography2: #363d65;
+  --typography3: #5e6484;
+  --success: #16644a;
+  --error: #8f1122;
+}
+
+body {
+  margin: 0;
+  overflow-y: scroll;
+}
+
+ul {
+  list-style: none;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+a {
+  text-decoration: none;
+}
