@@ -13,7 +13,7 @@ Notes:
 
 __Please don't use A.I__
 
-- Prepare your solution in the `src` folder. The starting place is `src/Home.tsx`
+- Prepare your solution in the `src` folder. The starting place is `src/pages/Home.tsx`
 - Please don't import any 3rd party libraries.
 - Answer the questions in the QUESTIONS.md file
 - Bonus points if you fix the rounded corners & backgrounds of the header and footer to match the design
