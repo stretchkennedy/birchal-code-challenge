@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`per-item functions decodeItem finds {"name":"Test","numberOfShares":12,"dateOfPurchase":"2023-04-23T16:07:16.229Z","status":"PURCHASED"} valid and returns a parsed value 1`] = `
+{
+  "dateOfPurchase": 1682266036229,
+  "name": "Test",
+  "numberOfShares": 12,
+  "status": "PURCHASED",
+}
+`;
