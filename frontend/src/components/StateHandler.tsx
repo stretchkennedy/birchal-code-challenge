@@ -8,8 +8,9 @@ export interface StateHandlerProps {
 }
 
 const StateHandler = ({ loading, error, children, reload }: StateHandlerProps) => {
+  // left bare-bones because we don't have designs and I'm not sure this was
+  // meant to be part of the test
   if (error) {
-    // left bare-bones
     return (
       <div>
         <pre>Error: {error.message}</pre>

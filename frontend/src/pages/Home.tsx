@@ -1,15 +1,10 @@
+import CampaignItem from "../components/CampaignItem";
 import Hero from "../components/Hero";
 import StateHandler from "../components/StateHandler"
 import useFetch from "../hooks/useFetch";
+import { Campaign } from "../types/campaign";
 
-interface Campaign {
-  id: string;
-  company: Company;
-}
-
-interface Company {
-  name: string;
-}
+const byClosingInDaysDesc = (c1: Campaign, c2: Campaign) => c2.closingInDays - c1.closingInDays;
 
 const Home = () => {
   const fetchState = useFetch<Campaign[]>("/campaigns.json", []);
@@ -21,7 +16,11 @@ const Home = () => {
         <h1>Live &amp; Recent Campaigns</h1>
         <p className="subtitle">Invest in exciting Australian brands</p>
         <StateHandler {...fetchState} >
-          { campaigns.map(c => <p key={c.id}>{c.company.name}</p>) }
+          {
+            campaigns.sort(byClosingInDaysDesc).map(
+              c => <CampaignItem key={c.id} campaign={c} />
+            )
+          }
         </StateHandler>
       </div>
     </>
