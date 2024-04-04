@@ -4,8 +4,6 @@ import StateHandler from "../components/StateHandler"
 import useFetch from "../hooks/useFetch";
 import { Campaign } from "../types/campaign";
 
-const byClosingInDaysDesc = (c1: Campaign, c2: Campaign) => c2.closingInDays - c1.closingInDays;
-
 const Home = () => {
   const fetchState = useFetch<Campaign[]>("/campaigns.json", []);
   const { data: campaigns } = fetchState;
@@ -16,11 +14,13 @@ const Home = () => {
         <h1>Live &amp; Recent Campaigns</h1>
         <p className="subtitle">Invest in exciting Australian brands</p>
         <StateHandler {...fetchState} >
-          {
-            campaigns.sort(byClosingInDaysDesc).map(
-              c => <CampaignItem key={c.id} campaign={c} />
-            )
-          }
+          <div className="campaign-tiles">
+            {
+              campaigns.map(
+                c => <CampaignItem key={c.id} campaign={c} />
+              )
+            }
+          </div>
         </StateHandler>
       </div>
     </>

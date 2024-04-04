@@ -33,20 +33,25 @@ const CampaignItem = ({ campaign }: CampaignProps) => {
     industry,
     mainImage,
     logoImage,
+    logoColour,
   } = company;
 
   return (
     <div>
-      <img src={mainImage} />
-      <div>
-        <img src={logoImage} />
-        <div>
-          <p>{name}</p>
-          <p>{industry}</p>
+      <img className="header" src={mainImage} />
+      <div className="middle">
+        <div className="logo" style={{
+          backgroundColor: logoColour || "var(--background-dark)",
+        }}>
+          <img src={logoImage} />
+        </div>
+        <div className="description">
+          <h3 className="heavy">{name}</h3>
+          <p className="light">{industry}</p>
         </div>
       </div>
-      <div>
-        <p>{typeFormats[type]}</p>
+      <div className="footer">
+        <p className="heavy">{typeFormats[type]}</p>
         <p>{getStatusFormatted(campaign)}</p>
       </div>
     </div>
