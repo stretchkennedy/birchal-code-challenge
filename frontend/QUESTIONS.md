@@ -24,3 +24,5 @@ I didn't see any experimentation, feature flags, or dynamic config. A/B testing 
 Accessibility and internationalisation are two big things that are missing, although those would be big projects.
 
 I personally believe Redux and other state management libraries are overused and I wouldn't introduce them on a small project, but some shared state (for query invalidation, user info, etc.) can be beneficial.
+
+I'd maybe look into testing. There's not a lot of functionality just yet, but visual regression testing might be useful.
