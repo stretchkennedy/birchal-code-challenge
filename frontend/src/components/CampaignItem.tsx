@@ -37,20 +37,20 @@ const CampaignItem = ({ campaign }: CampaignProps) => {
   } = company;
 
   return (
-    <div>
-      <img className="header" src={mainImage} />
-      <div className="middle">
-        <div className="logo" style={{
+    <div className="campaign-tiles__tile">
+      <img className="campaign-tiles__header" src={mainImage} />
+      <div className="campaign-tiles__middle">
+        <div className="campaign-tiles__logo" style={{
           backgroundColor: logoColour || "var(--background-dark)",
         }}>
           <img src={logoImage} />
         </div>
-        <div className="description">
+        <div className="campaign-tiles__description">
           <h3 className="heavy">{name}</h3>
           <p className="light">{industry}</p>
         </div>
       </div>
-      <div className="footer">
+      <div className="campaign-tiles__footer">
         <p className="heavy">{typeFormats[type]}</p>
         <p>{getStatusFormatted(campaign)}</p>
       </div>
